@@ -30,6 +30,8 @@ Quando você instalar o kali linux pelo WSL ele vem com uma versão limitada, us
 sudo apt install -y kali-linux-large
 ```
 
+Script em Breve...
+
 ### Etapa 6: Instalar o Kex
 
 ```
