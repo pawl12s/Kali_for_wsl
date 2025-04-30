@@ -6,14 +6,14 @@
 wsl –install
 ```
 ### Etapa 2: Lista de Sistemas
-veja se está online o linux que você pretende instalar
+Veja se está online o linux que você pretende instalar
 
 ```
 wsl --list --online
 ```
 
 ### Etapa 3: instalar o Sistema
-irei baixar o ubuntu mais baixe o sistema que queira
+Irei baixar o ubuntu mais baixe o sistema que queira
 
 ```
 wsl –install -d kali-linux
@@ -36,7 +36,7 @@ sudo apt install -y kali-linux-large
 sudo apt install kali-win-kex -y
 ```
 
-### Etapa 7:Iniciar o Kali Linux com Interface Grafica
+### Etapa 7: Iniciar o Kali Linux com Interface Grafica
 
 ```
 kex –win -s
