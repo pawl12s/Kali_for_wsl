@@ -1,4 +1,4 @@
-# Como instalar o Kali Linux no Subsistema Windows para Linux(WSL)
+# Como instalar o Kali Linux no Subsistema Windows para Linux (WSL)
 
 ### Etapa 1: Instale o WSL
 
